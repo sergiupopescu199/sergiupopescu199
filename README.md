@@ -10,3 +10,6 @@ I'm Sergiu
 - 📫 How to reach me: [mail](mailto:sergiupopescu2@gmail.com)
 - ⚡ I really like Linux and the open source in general.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiupopescu199" />
+</a>
