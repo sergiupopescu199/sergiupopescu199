@@ -15,6 +15,11 @@ I'm Sergiu
 [<img align="left" alt="sergiupopescu | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="sergiupopescu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
+
+[linkedin]: https://www.linkedin.com/in/sergiu-popescu-267578168/
+[github]: https://github.com/sergiupopescu199
+[telegram]: https://t.me/sergiupopescu
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiupopescu199" />
 </a>
