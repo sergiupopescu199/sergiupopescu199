@@ -8,7 +8,7 @@ I'm Sergiu
 - 🔭 I’m currently working on blockchain technologies, like **hyperledger fabric** & **sawtooh**
 - 🌱 I’m currently learning **Rust** & **Go**
 - 📫 How to reach me: [mail](mailto:sergiupopescu2@gmail.com)
-- ⚡ I really like Linux and the open source in general.
+- ⚡ I really like GNU/Linux and the open source in general.
 
 ### Contacts:
 [<img align="left" alt="sergiupopescu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
