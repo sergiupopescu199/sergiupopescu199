@@ -1,12 +1,11 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there
 
 <!--
 **sergiupopescu199/sergiupopescu199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I'm Sergiu
 
-- 🔭 I’m currently working on blockchain technologies, like **hyperledger fabric**, **sawtooh** & **IOTA**
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently working & learning **Rust**
 - 📫 How to reach me: [mail](mailto:sergiupopescu2@gmail.com)
 - ⚡ I really like GNU/Linux and the open source in general.
 
